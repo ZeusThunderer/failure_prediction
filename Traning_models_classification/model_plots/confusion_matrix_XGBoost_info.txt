@@ -1,0 +1,10 @@
+Матрица ошибок для модели XGBoost:
+True Negative (TN): 5860
+False Positive (FP): 755
+False Negative (FN): 7
+True Positive (TP): 1
+
+Общая точность (Accuracy): 0.884946
+Precision: 0.001323
+Recall: 0.125000
+Specificity: 0.885865

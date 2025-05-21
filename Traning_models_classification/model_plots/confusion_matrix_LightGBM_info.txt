@@ -1,0 +1,10 @@
+Матрица ошибок для модели LightGBM:
+True Negative (TN): 5041
+False Positive (FP): 1574
+False Negative (FN): 6
+True Positive (TP): 2
+
+Общая точность (Accuracy): 0.761437
+Precision: 0.001269
+Recall: 0.250000
+Specificity: 0.762056

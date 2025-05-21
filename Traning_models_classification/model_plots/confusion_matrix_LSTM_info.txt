@@ -1,0 +1,10 @@
+Матрица ошибок для модели LSTM:
+True Negative (TN): 6615
+False Positive (FP): 0
+False Negative (FN): 8
+True Positive (TP): 0
+
+Общая точность (Accuracy): 0.998792
+Precision: 0.000000
+Recall: 0.000000
+Specificity: 1.000000
